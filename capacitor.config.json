@@ -1,6 +1,6 @@
 {
   "appId": "com.zekr.app",
-  "appName": "Zekr - القرآن والأذكار",
+  "appName": "قران كريم",
   "webDir": "dist",
   "server": {
     "androidScheme": "https"
