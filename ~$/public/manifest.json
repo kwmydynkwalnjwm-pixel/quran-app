@@ -1,0 +1,21 @@
+{
+  "name": "Zekr - القرآن والأذكار",
+  "short_name": "Zekr",
+  "description": "تطبيق إسلامي شامل للقرآن الكريم، الأذكار، ومواقيت الصلاة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FDFBF7",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913410.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913410.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

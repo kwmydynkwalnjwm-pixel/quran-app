@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم والأذكار",
+  "description": "تطبيق شامل للقرآن الكريم بأصوات مشاهير القراء، أذكار الصباح والمساء، وسبحة إلكترونية بتصميم عصري.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
