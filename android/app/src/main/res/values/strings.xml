@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">القرآن الكريم</string>
-    <string name="title_activity_main">Zekr - القرآن والأذكار</string>
+    <string name="app_name">قران كريم</string>
+    <string name="title_activity_main"> قران كريم</string>
     <string name="package_name">com.zekr.app</string>
     <string name="custom_url_scheme">com.zekr.app</string>
 </resources>
